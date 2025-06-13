@@ -38,3 +38,12 @@ nav-connect:hover{
     gap: 5px;
     cursor: pointer;
 }
+
+.nav-menu a {
+  text-decoration: none; 
+  color: white;    
+}       
+
+.nav-menu a:hover {
+  color: #ccc;
+}
